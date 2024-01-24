@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredygarcia146&label=Profile%20views&color=0e75b6&style=flat" alt="fredygarcia146" /> </p>
 
 - 📫 How to reach me **and146.12@outlook.es**
+- 📫 How to reach me **agarcial@uni.pe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
