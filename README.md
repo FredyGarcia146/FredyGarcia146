@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andy Fredy C. García</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Passionate about process improvement, with the objective of automating reports and continuous or periodic tasks.
+Knowledge of Machine learning and predictive models.
+
+Currently training as a Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredygarcia146&label=Profile%20views&color=0e75b6&style=flat" alt="fredygarcia146" /> </p>
 
